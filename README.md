@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![zangyuchen2008's github stats](https://github-readme-stats.vercel.app/api?username=zangyuchen2008&show_icons=true&theme=dark)](https://github.com/zangyuchen2008/)
 <!--
 **zangyuchen2008/zangyuchen2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
