@@ -1,6 +1,8 @@
 ### Hi there 👋
-[![zangyuchen2008's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangyuchen2008&count_private=true&show_icons=true&theme=transparent)](https://github.com/zangyuchen2008/github-readme-stats)
-<!---[![zangyuchen2008's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zangyuchen2008)](https://github.com/zangyuchen2008/github-readme-stats)--->
+<!-- [![zangyuchen2008's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangyuchen2008&count_private=true&show_icons=true&theme=transparent)](https://github.com/zangyuchen2008/github-readme-stats)
+<!---[![zangyuchen2008's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zangyuchen2008)](https://github.com/zangyuchen2008/github-readme-stats)- -->
+
+![zangyuchen2008's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangyuchen2008&show_icons=true&count_private=true)
 <!--
 **zangyuchen2008/zangyuchen2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
